@@ -1,0 +1,1 @@
+<body onload=alert(1)>  <body onmessage=print()> <body onpageshow=alert(1)>
